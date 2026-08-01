@@ -1,0 +1,10 @@
+*~
+__pycache__/
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Project-specific large files (models, data backups)
+*.pkl
+*.tgz
+backend/model/my_california_housing_model.pkl

@@ -1,0 +1,38 @@
+# Common
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Backup files
+*~
+
+# Model files
+*.pkl
+*.pth
+*.pt
+
+# Large datasets
+*.tgz
+*.zip
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# MNIST project 
+MNIST/data/
+
+# median_house_price_prediction

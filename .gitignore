@@ -36,3 +36,6 @@ env/
 MNIST/data/
 
 # median_house_price_prediction
+
+# CIFAR-10 dataset
+CIFAR_10/data/

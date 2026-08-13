@@ -39,3 +39,6 @@ MNIST/data/
 
 # CIFAR-10 dataset
 CIFAR_10/data/
+
+# Oxford-IIIT pet dataset
+Oxford-IIIT Pet Dataset Segmentation/data/

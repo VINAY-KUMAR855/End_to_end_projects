@@ -42,3 +42,9 @@ CIFAR_10/data/
 
 # Oxford-IIIT pet dataset
 Oxford-IIIT Pet Dataset Segmentation/data/
+
+# football analysis
+football_analysis/runs/
+football_analysis/input_videos/08fd33_4.mp4
+football_analysis/output_videos/output_video.avi
+football_analysis/output_videos/output_video_5s.avi

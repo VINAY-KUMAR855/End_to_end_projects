@@ -1,0 +1,9 @@
+# Python 3.12+
+
+ultralytics==8.4.147
+supervision==0.30.2
+opencv-python==5.0.0.93
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+torch==2.14.0

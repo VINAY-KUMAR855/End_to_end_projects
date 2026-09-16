@@ -32,6 +32,10 @@ env/
 # Logs
 *.log
 
+# videos
+*.mp4
+*.avi
+
 # MNIST project 
 MNIST/data/
 
@@ -48,3 +52,5 @@ football_analysis/runs/
 football_analysis/input_videos/08fd33_4.mp4
 football_analysis/output_videos/output_video.avi
 football_analysis/output_videos/output_video_5s.avi
+
+# Auto matic numer plate recognization

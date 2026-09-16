@@ -9,7 +9,7 @@ from speed_and_distance_estimator import SpeedAndDistance_Estimator
 
 def main():
     # read video
-    video_frames, fps = read_video("./input_videos/output_5s_small.mp4")
+    video_frames, fps = read_video("./input_videos/first_100_frames_08fd33_4.mp4")
 
     # initialize tracker 
     tracker = Tracker("./models/best.pt")
@@ -77,7 +77,7 @@ def main():
     speed_and_distance_estimator.draw_speed_and_distance(output_video_frames,tracks)
 
     # save video
-    save_video(output_video_frames, "./output_videos/output_video_5s.avi", fps)
+    save_video(output_video_frames, "./output_videos/output_first_100_frames_08fd33_4.avi", fps)
 
 if __name__ =="__main__":
     main()

@@ -2,6 +2,7 @@
 
 A simple Computer Vision project to analyze football players from a
 video.
+![Output Image](output_videos/output_image.png)
 
 ## What This Project Does
 
